@@ -1,0 +1,102 @@
+Considered Columns:
+['Original clu. VIG', 'EGNN2S clu. VIG', 'G2SAT clu. VIG', 'Small-Allo-GWAE2SAT clu. VIG']
+
+Wins per model:
+EGNN2S clu. VIG                 94
+G2SAT clu. VIG                  42
+Small-Allo-GWAE2SAT clu. VIG    42
+Name: count, dtype: int64
+
+Average error:
+EGNN2S clu. VIG                 0.150373
+G2SAT clu. VIG                  0.219623
+Small-Allo-GWAE2SAT clu. VIG    0.350495
+dtype: float64
+
+
+
+Considered Columns:
+['Original clu. LIG', 'EGNN2S clu. LIG', 'G2SAT clu. LIG', 'Small-Allo-GWAE2SAT clu. LIG']
+
+Wins per model:
+EGNN2S clu. LIG                 109
+G2SAT clu. LIG                   43
+Small-Allo-GWAE2SAT clu. LIG     26
+Name: count, dtype: int64
+
+Average error:
+EGNN2S clu. LIG                 0.245265
+G2SAT clu. LIG                  0.336679
+Small-Allo-GWAE2SAT clu. LIG    0.519585
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. VIG', 'EGNN2S mod. VIG', 'G2SAT mod. VIG', 'Small-Allo-GWAE2SAT mod. VIG']
+
+Wins per model:
+Small-Allo-GWAE2SAT mod. VIG    86
+G2SAT mod. VIG                  65
+EGNN2S mod. VIG                 27
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. VIG                 0.359868
+G2SAT mod. VIG                  0.237625
+Small-Allo-GWAE2SAT mod. VIG    0.232009
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. LIG', 'EGNN2S mod. LIG', 'G2SAT mod. LIG', 'Small-Allo-GWAE2SAT mod. LIG']
+
+Wins per model:
+Small-Allo-GWAE2SAT mod. LIG    78
+G2SAT mod. LIG                  50
+EGNN2S mod. LIG                 50
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. LIG                 0.261435
+G2SAT mod. LIG                  0.241546
+Small-Allo-GWAE2SAT mod. LIG    0.249884
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. VCG', 'EGNN2S mod. VCG', 'G2SAT mod. VCG', 'Small-Allo-GWAE2SAT mod. VCG']
+
+Wins per model:
+EGNN2S mod. VCG                 81
+G2SAT mod. VCG                  58
+Small-Allo-GWAE2SAT mod. VCG    39
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. VCG                 0.160984
+G2SAT mod. VCG                  0.185562
+Small-Allo-GWAE2SAT mod. VCG    0.171719
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. LCG', 'EGNN2S mod. LCG', 'G2SAT mod. LCG', 'Small-Allo-GWAE2SAT mod. LCG']
+
+Wins per model:
+EGNN2S mod. LCG                 66
+G2SAT mod. LCG                  60
+Small-Allo-GWAE2SAT mod. LCG    52
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. LCG                 0.139944
+G2SAT mod. LCG                  0.161405
+Small-Allo-GWAE2SAT mod. LCG    0.130332
+dtype: float64
+
+
+

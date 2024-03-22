@@ -1,0 +1,20 @@
+No NaN Averages:
+EGNN2S clu. LIG           0.219770
+G2SAT clu. LIG            0.305259
+W2SAT clu. LIG            0.120959
+Allo-GWAE2SAT clu. LIG    0.619703
+Auto-GWAE2SAT clu. LIG    0.591414
+dtype: float64
+
+Whole Averages:
+EGNN2S clu. LIG           0.237817
+G2SAT clu. LIG            0.322600
+Allo-GWAE2SAT clu. LIG    0.635326
+Auto-GWAE2SAT clu. LIG    0.605982
+dtype: float64
+
+No NaN Wins:
+{'EGNN2S': 14, 'G2SAT': 9, 'W2SAT': 33, 'Allo-GWAE2SAT': 0, 'Auto-GWAE2SAT': 0}
+
+Whole Wins:
+{'EGNN2S': 18, 'G2SAT': 9, 'Allo-GWAE2SAT': 0, 'Auto-GWAE2SAT': 0}

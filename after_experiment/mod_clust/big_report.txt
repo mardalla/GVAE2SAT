@@ -1,0 +1,138 @@
+Considered Columns:
+['Original clu. VIG', 'EGNN2S clu. VIG', 'G2SAT clu. VIG', 'Small-Allo-GWAE2SAT clu. VIG', 'Big-Allo-GWAE2SAT clu. VIG', 'Small-Auto-GWAE2SAT clu. VIG', 'Big-Auto-GWAE2SAT clu. VIG']
+
+Wins per model:
+EGNN2S clu. VIG                 81
+G2SAT clu. VIG                  41
+Big-Allo-GWAE2SAT clu. VIG      21
+Small-Auto-GWAE2SAT clu. VIG    14
+Big-Auto-GWAE2SAT clu. VIG      13
+Small-Allo-GWAE2SAT clu. VIG     8
+Name: count, dtype: int64
+
+Average error:
+EGNN2S clu. VIG                 0.150373
+G2SAT clu. VIG                  0.219623
+Small-Allo-GWAE2SAT clu. VIG    0.350495
+Big-Allo-GWAE2SAT clu. VIG      0.265649
+Small-Auto-GWAE2SAT clu. VIG    0.349797
+Big-Auto-GWAE2SAT clu. VIG      0.265295
+dtype: float64
+
+
+
+Considered Columns:
+['Original clu. LIG', 'EGNN2S clu. LIG', 'G2SAT clu. LIG', 'Small-Allo-GWAE2SAT clu. LIG', 'Big-Allo-GWAE2SAT clu. LIG', 'Small-Auto-GWAE2SAT clu. LIG', 'Big-Auto-GWAE2SAT clu. LIG']
+
+Wins per model:
+EGNN2S clu. LIG                 109
+G2SAT clu. LIG                   43
+Small-Allo-GWAE2SAT clu. LIG     10
+Big-Allo-GWAE2SAT clu. LIG        8
+Big-Auto-GWAE2SAT clu. LIG        5
+Small-Auto-GWAE2SAT clu. LIG      3
+Name: count, dtype: int64
+
+Average error:
+EGNN2S clu. LIG                 0.245265
+G2SAT clu. LIG                  0.336679
+Small-Allo-GWAE2SAT clu. LIG    0.519585
+Big-Allo-GWAE2SAT clu. LIG      0.511030
+Small-Auto-GWAE2SAT clu. LIG    0.519407
+Big-Auto-GWAE2SAT clu. LIG      0.511264
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. VIG', 'EGNN2S mod. VIG', 'G2SAT mod. VIG', 'Small-Allo-GWAE2SAT mod. VIG', 'Big-Allo-GWAE2SAT mod. VIG', 'Small-Auto-GWAE2SAT mod. VIG', 'Big-Auto-GWAE2SAT mod. VIG']
+
+Wins per model:
+G2SAT mod. VIG                  55
+Small-Auto-GWAE2SAT mod. VIG    29
+Small-Allo-GWAE2SAT mod. VIG    28
+EGNN2S mod. VIG                 26
+Big-Auto-GWAE2SAT mod. VIG      21
+Big-Allo-GWAE2SAT mod. VIG      19
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. VIG                 0.359868
+G2SAT mod. VIG                  0.237625
+Small-Allo-GWAE2SAT mod. VIG    0.232009
+Big-Allo-GWAE2SAT mod. VIG      0.302386
+Small-Auto-GWAE2SAT mod. VIG    0.231977
+Big-Auto-GWAE2SAT mod. VIG      0.303453
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. LIG', 'EGNN2S mod. LIG', 'G2SAT mod. LIG', 'Small-Allo-GWAE2SAT mod. LIG', 'Big-Allo-GWAE2SAT mod. LIG', 'Small-Auto-GWAE2SAT mod. LIG', 'Big-Auto-GWAE2SAT mod. LIG']
+
+Wins per model:
+EGNN2S mod. LIG                 46
+G2SAT mod. LIG                  32
+Small-Allo-GWAE2SAT mod. LIG    29
+Big-Allo-GWAE2SAT mod. LIG      26
+Big-Auto-GWAE2SAT mod. LIG      25
+Small-Auto-GWAE2SAT mod. LIG    20
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. LIG                 0.261435
+G2SAT mod. LIG                  0.241546
+Small-Allo-GWAE2SAT mod. LIG    0.249884
+Big-Allo-GWAE2SAT mod. LIG      0.267079
+Small-Auto-GWAE2SAT mod. LIG    0.249367
+Big-Auto-GWAE2SAT mod. LIG      0.266662
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. VCG', 'EGNN2S mod. VCG', 'G2SAT mod. VCG', 'Small-Allo-GWAE2SAT mod. VCG', 'Big-Allo-GWAE2SAT mod. VCG', 'Small-Auto-GWAE2SAT mod. VCG', 'Big-Auto-GWAE2SAT mod. VCG']
+
+Wins per model:
+EGNN2S mod. VCG                 77
+G2SAT mod. VCG                  49
+Small-Allo-GWAE2SAT mod. VCG    24
+Small-Auto-GWAE2SAT mod. VCG    12
+Big-Allo-GWAE2SAT mod. VCG      11
+Big-Auto-GWAE2SAT mod. VCG       5
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. VCG                 0.160984
+G2SAT mod. VCG                  0.185562
+Small-Allo-GWAE2SAT mod. VCG    0.171719
+Big-Allo-GWAE2SAT mod. VCG      0.241427
+Small-Auto-GWAE2SAT mod. VCG    0.171811
+Big-Auto-GWAE2SAT mod. VCG      0.241793
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. LCG', 'EGNN2S mod. LCG', 'G2SAT mod. LCG', 'Small-Allo-GWAE2SAT mod. LCG', 'Big-Allo-GWAE2SAT mod. LCG', 'Small-Auto-GWAE2SAT mod. LCG', 'Big-Auto-GWAE2SAT mod. LCG']
+
+Wins per model:
+EGNN2S mod. LCG                 64
+G2SAT mod. LCG                  54
+Small-Allo-GWAE2SAT mod. LCG    35
+Small-Auto-GWAE2SAT mod. LCG    17
+Big-Allo-GWAE2SAT mod. LCG       6
+Big-Auto-GWAE2SAT mod. LCG       2
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. LCG                 0.139944
+G2SAT mod. LCG                  0.161405
+Small-Allo-GWAE2SAT mod. LCG    0.130332
+Big-Allo-GWAE2SAT mod. LCG      0.226855
+Small-Auto-GWAE2SAT mod. LCG    0.130410
+Big-Auto-GWAE2SAT mod. LCG      0.227235
+dtype: float64
+
+
+

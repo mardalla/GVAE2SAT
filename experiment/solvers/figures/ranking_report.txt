@@ -1,0 +1,36 @@
+No NaN Wins:
+{'EGNN2S': [18, 15], 'G2SAT': [26, 21], 'W2SAT': [24, 25], 'Allo-GWAE2SAT': [23, 20], 'Auto-GWAE2SAT': [29, 21]}
+
+Whole Wins:
+{'EGNN2S': [18, 15], 'G2SAT': [29, 23], 'Allo-GWAE2SAT': [26, 24], 'Auto-GWAE2SAT': [31, 24]}
+
+No NaN mean hamming:
+EGNN2S           2.142857
+G2SAT            1.750000
+W2SAT            1.982143
+Allo-GWAE2SAT    1.982143
+Auto-GWAE2SAT    1.750000
+dtype: float64
+
+Whole mean hamming:
+EGNN2S           2.216667
+G2SAT            1.800000
+Allo-GWAE2SAT    2.016667
+Auto-GWAE2SAT    1.816667
+dtype: float64
+
+No NaN mean pairwise:
+EGNN2S           1.589286
+G2SAT            1.375000
+W2SAT            1.428571
+Allo-GWAE2SAT    1.357143
+Auto-GWAE2SAT    1.446429
+dtype: float64
+
+Whole mean pairwise:
+EGNN2S           1.70
+G2SAT            1.45
+Allo-GWAE2SAT    1.40
+Auto-GWAE2SAT    1.50
+dtype: float64
+

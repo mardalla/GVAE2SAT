@@ -1,0 +1,159 @@
+Considered Columns:
+['Original clu. VIG', 'EGNN2S clu. VIG', 'G2SAT clu. VIG', 'W2SAT clu. VIG', 'Allo-GWAE2SAT clu. VIG', 'Auto-GWAE2SAT clu. VIG', 'Big_Allo-GWAE2SAT clu. VIG', 'Big_Auto-GWAE2SAT clu. VIG', 'STAllo-GWAE2SAT clu. VIG', 'STAuto-GWAE2SAT clu. VIG']
+
+Wins per model:
+W2SAT clu. VIG                35
+STAllo-GWAE2SAT clu. VIG       7
+EGNN2S clu. VIG                4
+G2SAT clu. VIG                 4
+STAuto-GWAE2SAT clu. VIG       4
+Big_Allo-GWAE2SAT clu. VIG     1
+Big_Auto-GWAE2SAT clu. VIG     1
+Name: count, dtype: int64
+
+Average error:
+EGNN2S clu. VIG               0.165850
+G2SAT clu. VIG                0.238161
+W2SAT clu. VIG                0.050502
+Allo-GWAE2SAT clu. VIG        0.502211
+Auto-GWAE2SAT clu. VIG        0.473027
+Big_Allo-GWAE2SAT clu. VIG    0.474135
+Big_Auto-GWAE2SAT clu. VIG    0.431906
+STAllo-GWAE2SAT clu. VIG      0.182283
+STAuto-GWAE2SAT clu. VIG      0.182056
+dtype: float64
+
+
+
+Considered Columns:
+['Original clu. LIG', 'EGNN2S clu. LIG', 'G2SAT clu. LIG', 'W2SAT clu. LIG', 'Allo-GWAE2SAT clu. LIG', 'Auto-GWAE2SAT clu. LIG', 'Big_Allo-GWAE2SAT clu. LIG', 'Big_Auto-GWAE2SAT clu. LIG', 'STAllo-GWAE2SAT clu. LIG', 'STAuto-GWAE2SAT clu. LIG']
+
+Wins per model:
+W2SAT clu. LIG                32
+EGNN2S clu. LIG               13
+G2SAT clu. LIG                 9
+Big_Auto-GWAE2SAT clu. LIG     2
+Name: count, dtype: int64
+
+Average error:
+EGNN2S clu. LIG               0.219770
+G2SAT clu. LIG                0.305259
+W2SAT clu. LIG                0.120959
+Allo-GWAE2SAT clu. LIG        0.619703
+Auto-GWAE2SAT clu. LIG        0.591414
+Big_Allo-GWAE2SAT clu. LIG    0.609239
+Big_Auto-GWAE2SAT clu. LIG    0.579220
+STAllo-GWAE2SAT clu. LIG      0.322095
+STAuto-GWAE2SAT clu. LIG      0.321392
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. VIG', 'EGNN2S mod. VIG', 'G2SAT mod. VIG', 'W2SAT mod. VIG', 'Allo-GWAE2SAT mod. VIG', 'Auto-GWAE2SAT mod. VIG', 'Big_Allo-GWAE2SAT mod. VIG', 'Big_Auto-GWAE2SAT mod. VIG', 'STAllo-GWAE2SAT mod. VIG', 'STAuto-GWAE2SAT mod. VIG']
+
+Wins per model:
+W2SAT mod. VIG                44
+G2SAT mod. VIG                 5
+Allo-GWAE2SAT mod. VIG         3
+EGNN2S mod. VIG                2
+Big_Auto-GWAE2SAT mod. VIG     1
+Auto-GWAE2SAT mod. VIG         1
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. VIG               0.285083
+G2SAT mod. VIG                0.256620
+W2SAT mod. VIG                0.056275
+Allo-GWAE2SAT mod. VIG        0.449266
+Auto-GWAE2SAT mod. VIG        0.419113
+Big_Allo-GWAE2SAT mod. VIG    0.549310
+Big_Auto-GWAE2SAT mod. VIG    0.539964
+STAllo-GWAE2SAT mod. VIG      0.225072
+STAuto-GWAE2SAT mod. VIG      0.225429
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. LIG', 'EGNN2S mod. LIG', 'G2SAT mod. LIG', 'W2SAT mod. LIG', 'Allo-GWAE2SAT mod. LIG', 'Auto-GWAE2SAT mod. LIG', 'Big_Allo-GWAE2SAT mod. LIG', 'Big_Auto-GWAE2SAT mod. LIG', 'STAllo-GWAE2SAT mod. LIG', 'STAuto-GWAE2SAT mod. LIG']
+
+Wins per model:
+W2SAT mod. LIG                39
+EGNN2S mod. LIG                4
+G2SAT mod. LIG                 3
+Big_Allo-GWAE2SAT mod. LIG     3
+Auto-GWAE2SAT mod. LIG         3
+Big_Auto-GWAE2SAT mod. LIG     3
+Allo-GWAE2SAT mod. LIG         1
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. LIG               0.170974
+G2SAT mod. LIG                0.249911
+W2SAT mod. LIG                0.027899
+Allo-GWAE2SAT mod. LIG        0.320375
+Auto-GWAE2SAT mod. LIG        0.293943
+Big_Allo-GWAE2SAT mod. LIG    0.350812
+Big_Auto-GWAE2SAT mod. LIG    0.347224
+STAllo-GWAE2SAT mod. LIG      0.376280
+STAuto-GWAE2SAT mod. LIG      0.375700
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. VCG', 'EGNN2S mod. VCG', 'G2SAT mod. VCG', 'W2SAT mod. VCG', 'Allo-GWAE2SAT mod. VCG', 'Auto-GWAE2SAT mod. VCG', 'Big_Allo-GWAE2SAT mod. VCG', 'Big_Auto-GWAE2SAT mod. VCG', 'STAllo-GWAE2SAT mod. VCG', 'STAuto-GWAE2SAT mod. VCG']
+
+Wins per model:
+W2SAT mod. VCG                36
+G2SAT mod. VCG                 7
+EGNN2S mod. VCG                5
+Auto-GWAE2SAT mod. VCG         4
+STAllo-GWAE2SAT mod. VCG       2
+Big_Auto-GWAE2SAT mod. VCG     1
+Allo-GWAE2SAT mod. VCG         1
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. VCG               0.151198
+G2SAT mod. VCG                0.163130
+W2SAT mod. VCG                0.054589
+Allo-GWAE2SAT mod. VCG        0.350485
+Auto-GWAE2SAT mod. VCG        0.322137
+Big_Allo-GWAE2SAT mod. VCG    0.386144
+Big_Auto-GWAE2SAT mod. VCG    0.374711
+STAllo-GWAE2SAT mod. VCG      0.168806
+STAuto-GWAE2SAT mod. VCG      0.168411
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. LCG', 'EGNN2S mod. LCG', 'G2SAT mod. LCG', 'W2SAT mod. LCG', 'Allo-GWAE2SAT mod. LCG', 'Auto-GWAE2SAT mod. LCG', 'Big_Allo-GWAE2SAT mod. LCG', 'Big_Auto-GWAE2SAT mod. LCG', 'STAllo-GWAE2SAT mod. LCG', 'STAuto-GWAE2SAT mod. LCG']
+
+Wins per model:
+W2SAT mod. LCG                37
+G2SAT mod. LCG                 8
+STAllo-GWAE2SAT mod. LCG       3
+EGNN2S mod. LCG                2
+Big_Allo-GWAE2SAT mod. LCG     2
+STAuto-GWAE2SAT mod. LCG       2
+Allo-GWAE2SAT mod. LCG         1
+Auto-GWAE2SAT mod. LCG         1
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. LCG               0.128713
+G2SAT mod. LCG                0.151483
+W2SAT mod. LCG                0.032472
+Allo-GWAE2SAT mod. LCG        0.279408
+Auto-GWAE2SAT mod. LCG        0.246879
+Big_Allo-GWAE2SAT mod. LCG    0.336168
+Big_Auto-GWAE2SAT mod. LCG    0.306653
+STAllo-GWAE2SAT mod. LCG      0.156533
+STAuto-GWAE2SAT mod. LCG      0.156931
+dtype: float64
+
+
+

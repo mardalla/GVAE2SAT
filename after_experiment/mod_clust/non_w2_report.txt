@@ -1,0 +1,100 @@
+Considered Columns:
+['Original clu. VIG', 'EGNN2S clu. VIG', 'G2SAT clu. VIG', 'Small-Allo-GWAE2SAT clu. VIG']
+
+Wins per model:
+EGNN2S clu. VIG    38
+G2SAT clu. VIG     13
+Name: count, dtype: int64
+
+Average error:
+EGNN2S clu. VIG                 0.132984
+G2SAT clu. VIG                  0.212897
+Small-Allo-GWAE2SAT clu. VIG    0.510674
+dtype: float64
+
+
+
+Considered Columns:
+['Original clu. LIG', 'EGNN2S clu. LIG', 'G2SAT clu. LIG', 'Small-Allo-GWAE2SAT clu. LIG']
+
+Wins per model:
+EGNN2S clu. LIG    44
+G2SAT clu. LIG      7
+Name: count, dtype: int64
+
+Average error:
+EGNN2S clu. LIG                 0.350016
+G2SAT clu. LIG                  0.451311
+Small-Allo-GWAE2SAT clu. LIG    0.707318
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. VIG', 'EGNN2S mod. VIG', 'G2SAT mod. VIG', 'Small-Allo-GWAE2SAT mod. VIG']
+
+Wins per model:
+Small-Allo-GWAE2SAT mod. VIG    28
+G2SAT mod. VIG                  17
+EGNN2S mod. VIG                  6
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. VIG                 0.360238
+G2SAT mod. VIG                  0.188286
+Small-Allo-GWAE2SAT mod. VIG    0.202946
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. LIG', 'EGNN2S mod. LIG', 'G2SAT mod. LIG', 'Small-Allo-GWAE2SAT mod. LIG']
+
+Wins per model:
+G2SAT mod. LIG                  22
+Small-Allo-GWAE2SAT mod. LIG    16
+EGNN2S mod. LIG                 13
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. LIG                 0.305573
+G2SAT mod. LIG                  0.221674
+Small-Allo-GWAE2SAT mod. LIG    0.335227
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. VCG', 'EGNN2S mod. VCG', 'G2SAT mod. VCG', 'Small-Allo-GWAE2SAT mod. VCG']
+
+Wins per model:
+G2SAT mod. VCG                  22
+EGNN2S mod. VCG                 20
+Small-Allo-GWAE2SAT mod. VCG     9
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. VCG                 0.203452
+G2SAT mod. VCG                  0.188343
+Small-Allo-GWAE2SAT mod. VCG    0.158927
+dtype: float64
+
+
+
+Considered Columns:
+['Original mod. LCG', 'EGNN2S mod. LCG', 'G2SAT mod. LCG', 'Small-Allo-GWAE2SAT mod. LCG']
+
+Wins per model:
+G2SAT mod. LCG                  23
+EGNN2S mod. LCG                 21
+Small-Allo-GWAE2SAT mod. LCG     7
+Name: count, dtype: int64
+
+Average error:
+EGNN2S mod. LCG                 0.173698
+G2SAT mod. LCG                  0.159037
+Small-Allo-GWAE2SAT mod. LCG    0.150325
+dtype: float64
+
+
+

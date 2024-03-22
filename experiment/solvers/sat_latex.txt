@@ -1,0 +1,74 @@
+\begin{table}
+  \centering
+  \caption{Satisfiability of Generated Instances}
+  \label{tab:satis_full}
+  \bigskip
+  \resizebox{\textwidth}{!}{
+    \begin{tabular}{|l|c|c|c|c|c|c|}
+      \hline
+      \textbf{Instance} & \textbf{Original} & \textbf{EGNN2S} & \textbf{G2SAT} & \textbf{W2SAT} & \textbf{Allo-GWAE2SAT} & \textbf{Auto-GWAE2SAT} \\
+      \hline
+      unsat\_tiling\_20\_102\_21063.cnf & UNSAT & 1 & 0 & 0 & 1 & 0 \\
+      unsat\_tseitin\_40\_266\_90515.cnf & UNSAT & 10 & 10 & 7 & 1 & 1 \\
+      unsat\_tiling\_20\_782\_63634.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_cliquecoloring\_27\_131.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      sat\_5color\_100\_420\_10212.cnf & SAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_matching\_80\_361\_40622.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_4clique\_32\_452\_22842.cnf & UNSAT & 0 & 0 & 0 & 1 & 0 \\
+      unsat\_cliquecoloring\_30\_118.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_matching\_40\_111\_28630.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_4clique\_52\_1174\_65351.cnf & UNSAT & 0 & 0 & nan & 0 & 0 \\
+      unsat\_tiling\_10\_47\_90497.cnf & UNSAT & 3 & 0 & 0 & 1 & 1 \\
+      unsat\_tiling\_20\_231\_52499.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_cliquecoloring\_62\_446.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_matching\_60\_259\_93884.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_tseitin\_20\_100\_94365.cnf & UNSAT & 9 & 10 & 3 & 1 & 1 \\
+      sat\_subsetcard\_64\_1792\_25143.cnf & SAT & 0 & 0 & 0 & 1 & 0 \\
+      sat\_tiling\_10\_236\_77445.cnf & SAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_cliquecoloring\_50\_356.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      sat\_dominating\_70\_1295\_25518.cnf & SAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_matching\_40\_184\_2153.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      sat\_php\_224\_908\_8740.cnf & SAT & 0 & 0 & nan & 0 & 0 \\
+      sat\_tiling\_10\_244\_40767.cnf & SAT & 0 & 0 & 0 & 1 & 0 \\
+      sat\_cliquecoloring\_50\_213.cnf & SAT & 0 & 0 & 6 & 1 & 1 \\
+      unsat\_php\_101\_509\_5311.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      sat\_php\_213\_828\_16930.cnf & SAT & 0 & 0 & nan & 0 & 0 \\
+      sat\_php\_233\_990\_95853.cnf & SAT & 0 & 0 & nan & 0 & 0 \\
+      sat\_op\_45\_249\_69595.cnf & SAT & 0 & 0 & 0 & 1 & 1 \\
+      sat\_cliquecoloring\_55\_227.cnf & SAT & 0 & 0 & 1 & 0 & 0 \\
+      sat\_5color\_50\_260\_2076.cnf & SAT & 0 & 0 & 0 & 1 & 0 \\
+      unsat\_tiling\_20\_793\_2570.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      sat\_cliquecoloring\_99\_561.cnf & SAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_php\_186\_1660\_24423.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      sat\_op\_45\_249\_85625.cnf & SAT & 0 & 0 & 0 & 1 & 1 \\
+      sat\_cliquecoloring\_80\_524.cnf & SAT & 0 & 0 & 0 & 0 & 0 \\
+      sat\_cliquecoloring\_45\_137.cnf & SAT & 0 & 0 & 1 & 1 & 1 \\
+      sat\_matching\_60\_251\_14901.cnf & SAT & 0 & 0 & 0 & 0 & 0 \\
+      sat\_subsetcard\_36\_360\_58681.cnf & SAT & 0 & 0 & 0 & 1 & 1 \\
+      sat\_tseitin\_20\_130\_36501.cnf & SAT & 10 & 10 & 7 & 1 & 1 \\
+      sat\_tseitin\_30\_468\_86187.cnf & SAT & 10 & 10 & 9 & 1 & 1 \\
+      unsat\_cliquecoloring\_37\_230.cnf & UNSAT & 7 & 0 & 0 & 0 & 0 \\
+      sat\_subsetcard\_12\_72\_25143.cnf & SAT & 0 & 1 & 6 & 1 & 1 \\
+      sat\_4clique\_32\_404\_34389.cnf & SAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_php\_96\_450\_86266.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_php\_97\_451\_21992.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_4color\_40\_190\_72085.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      sat\_op\_28\_119\_84304.cnf & SAT & 0 & 0 & 0 & 1 & 1 \\
+      unsat\_cliquecoloring\_36\_176.cnf & UNSAT & 0 & 0 & 0 & 0 & 1 \\
+      sat\_subsetcard\_12\_36\_64659.cnf & SAT & 10 & 10 & 9 & 1 & 1 \\
+      unsat\_tseitin\_30\_568\_54824.cnf & UNSAT & 10 & 10 & 10 & 1 & 1 \\
+      unsat\_cliquecoloring\_54\_673.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_matching\_80\_365\_47440.cnf & UNSAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_tseitin\_30\_452\_52851.cnf & UNSAT & 10 & 10 & 10 & 1 & 1 \\
+      sat\_3clique\_24\_255\_7737.cnf & SAT & 0 & 0 & 0 & 1 & 0 \\
+      sat\_op\_45\_249\_90577.cnf & SAT & 0 & 0 & 0 & 1 & 1 \\
+      sat\_tseitin\_30\_424\_85097.cnf & SAT & 10 & 10 & 10 & 1 & 1 \\
+      sat\_php\_188\_804\_77056.cnf & SAT & 0 & 0 & 0 & 0 & 0 \\
+      unsat\_subsetcard\_31\_129\_84276.cnf & UNSAT & 0 & 0 & 1 & 1 & 1 \\
+      sat\_dominating\_60\_970\_53707.cnf & SAT & 0 & 0 & 0 & 0 & 0 \\
+      sat\_cliquecoloring\_69\_305.cnf & SAT & 0 & 0 & 1 & 0 & 0 \\
+      unsat\_dominating\_40\_455\_67184.cnf & UNSAT & 1 & 0 & 0 & 0 & 0 \\
+      \hline
+    \end{tabular}
+  }
+\end{table}

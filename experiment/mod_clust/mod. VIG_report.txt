@@ -1,0 +1,20 @@
+No NaN Averages:
+EGNN2S mod. VIG           0.285083
+G2SAT mod. VIG            0.256620
+W2SAT mod. VIG            0.056275
+Allo-GWAE2SAT mod. VIG    0.449266
+Auto-GWAE2SAT mod. VIG    0.419113
+dtype: float64
+
+Whole Averages:
+EGNN2S mod. VIG           0.282358
+G2SAT mod. VIG            0.254444
+Allo-GWAE2SAT mod. VIG    0.433940
+Auto-GWAE2SAT mod. VIG    0.409832
+dtype: float64
+
+No NaN Wins:
+{'EGNN2S': 2, 'G2SAT': 5, 'W2SAT': 45, 'Allo-GWAE2SAT': 3, 'Auto-GWAE2SAT': 1}
+
+Whole Wins:
+{'EGNN2S': 3, 'G2SAT': 7, 'Allo-GWAE2SAT': 3, 'Auto-GWAE2SAT': 2}

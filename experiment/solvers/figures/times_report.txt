@@ -1,0 +1,16 @@
+No NaN:
+Original         0.977824
+EGNN2S           0.000105
+G2SAT            0.000014
+W2SAT            0.000026
+Allo-GWAE2SAT    0.000008
+Auto-GWAE2SAT    0.000008
+dtype: float64
+
+Whole:
+Original         0.912642
+EGNN2S           0.000109
+G2SAT            0.000014
+Allo-GWAE2SAT    0.000008
+Auto-GWAE2SAT    0.000008
+dtype: float64

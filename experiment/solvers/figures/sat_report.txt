@@ -1,0 +1,30 @@
+sat_df No NaN:
+EGNN2S           0.148148
+G2SAT            0.151852
+W2SAT            0.185185
+Allo-GWAE2SAT    0.059259
+Auto-GWAE2SAT    0.044444
+dtype: float64
+
+sat_df Whole:
+EGNN2S           0.133333
+G2SAT            0.136667
+Allo-GWAE2SAT    0.053333
+Auto-GWAE2SAT    0.040000
+dtype: float64
+
+unsat_df No NaN:
+EGNN2S           0.175862
+G2SAT            0.137931
+W2SAT            0.106897
+Allo-GWAE2SAT    0.027586
+Auto-GWAE2SAT    0.024138
+dtype: float64
+
+unsat_df Whole:
+EGNN2S           0.170000
+G2SAT            0.133333
+Allo-GWAE2SAT    0.026667
+Auto-GWAE2SAT    0.023333
+dtype: float64
+
