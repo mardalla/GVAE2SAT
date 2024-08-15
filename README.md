@@ -13,5 +13,6 @@ This paper presents a SAT instance generator using a Graph Variational Autoencod
 
 
 # How to run
-cd Experiments/
+cd Experiments/ \\
+
 python <name of python file in the directory> --src <absolute path to directory with files that all models generate from> --gvae2sat <absolute path to directory of files that GVAE2SAT trains on>.
